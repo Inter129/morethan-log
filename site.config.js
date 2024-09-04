@@ -10,7 +10,10 @@ const CONFIG = {
     github: "inter129",
     instagram: "inter129.dev",
   },
-  projects: [],
+  projects: [{
+      href: "https://api.iml.sh",
+      name: "InterInter API",
+    }],
   // blog setting (required)
   blog: {
     title: "Inter's Log",
