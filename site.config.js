@@ -5,6 +5,7 @@ const CONFIG = {
     image: "/profile_image_crepe_z1pm.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "student developer",
     bio: "룰루랄라~",
+    linkedin: "",
     email: "me@iml.sh",
     github: "inter129",
     instagram: "inter129.dev",
